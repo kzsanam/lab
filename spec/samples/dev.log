@@ -1,0 +1,11 @@
+2019-11-22 10:01:48,658  IDSCam camID:0  DEBUG  __init__
+2019-11-22 10:01:49,815  IDSCam camID:0  DEBUG  ['IDS 0, Connecting']
+2019-11-22 10:01:49,815  IDSCam camID:0  DEBUG  ['IDS 0, SerialNumber 4103641830 found']
+2019-11-22 10:01:49,815  IDSCam camID:0  DEBUG  ['IDS 0, GetAoi: OffsetX 0, OffsetY 0, Width 1936, Height 1216']
+2019-11-22 10:01:49,975  IDSCam camID:0  DEBUG  ['IDS 0, GetPixelClockRange: (30, 474, 0)']
+2019-11-22 10:01:49,975  IDSCam camID:0  DEBUG  ['IDS 0, Pixelclock: 237']
+2019-11-22 10:01:49,995  IDSCam camID:0  DEBUG  ['IDS 0, ExposureRange: (0.02,19.92,0.01)']
+2019-11-22 10:01:49,995  IDSCam camID:0  DEBUG  ['IDS 0, GetExposure: 19.00']
+2019-11-22 10:01:49,995  IDSCam camID:0  DEBUG  ['IDS 0, GetFrameRateRange: (1.00,81.96,81.89)']
+2019-11-22 10:01:49,995  IDSCam camID:0  DEBUG  ['IDS 0, GetFrameRate: 3.00']
+2019-11-22 10:01:50,005  IDSCam camID:0  DEBUG  ['IDS 0, Gain: 1.0']

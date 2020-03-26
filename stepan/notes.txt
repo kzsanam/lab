@@ -1,0 +1,56 @@
+rd6:
+6:
+low conc
+7:
+high concentration
+rd6_a_7_1 and f_7_1:
+old sample mol = 1e-6 
+
+rd6_ethGl_8  rd6_a_8 new mol 1e-6:
+den = 0.120
+avg = 1000
+int time = 1.010
+9 - 2 cuvettes for mol 2e-6:
+f:
+den = 0.100
+avg = 100
+int time = 200.010
+a_9_1:
+0.100
+10.010
+a_gl_9_1
+0.125
+
+9_2:
+den 0.1
+time 1.010
+
+9_3:
+den 0.1
+time 1.010
+
+
+12:
+390 
+144
+
+best results for r6g 2e-6:
+absorption 18 + fluor 13 or
+absorption 12 - 13 + fluer 13
+
+19: rhodamine from a closet 20x
+
+20: rhodamine 5e-6
+
+
+qd1, 1:
+a, ocd
+units 0.120
+int time 1
+avg 1000
+
+fluor
+units 0.120
+int 229
+avg 50
+
